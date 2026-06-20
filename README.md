@@ -50,6 +50,7 @@
 
 ## 🛠 Tools & Technologies:
 **Tools**
+
 ``
 Google Colab |
 Python |
@@ -58,6 +59,7 @@ GitHub |
 ``
   
 **Python Libraries**
+
 ``
 Pandas |
 NumPy |
