@@ -50,17 +50,21 @@
 
 ## 🛠 Tools & Technologies:
 **Tools**
-* Google Colab
-* Python
-* Power BI
-* GitHub
+``
+Google Colab |
+Python |
+Power BI |
+GitHub |
+``
   
 **Python Libraries**
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly Express
+``
+Pandas |
+NumPy |
+Matplotlib |
+Seaborn |
+Plotly Express
+``
 
 ## ⚙️ Features Implemented:
 
