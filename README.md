@@ -85,7 +85,8 @@ Plotly Express
 * Built interactive Power BI dashboards.
 * Produced business insights and recommendations.
   
-![Dashboard](Image./EDA.png) 
+![Dashboard](Dashboard 1.png) 
+![Dashboard](Dashboard 2.png)
 
 ## 📈 Key Insights
 * Moderate traffic density occurs most frequently in the dataset.
