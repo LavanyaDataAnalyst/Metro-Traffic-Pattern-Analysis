@@ -89,6 +89,7 @@ Plotly Express
 
 ![Dashboard](Image/Dashboard 2.png)
 
+
 ## 📈 Key Insights
 * Moderate traffic density occurs most frequently in the dataset.
 * Traffic volume remains relatively stable from 2012 to 2018.
