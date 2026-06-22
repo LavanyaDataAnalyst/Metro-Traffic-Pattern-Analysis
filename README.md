@@ -85,10 +85,9 @@ Plotly Express
 * Built interactive Power BI dashboards.
 * Produced business insights and recommendations.
   
-### Dashboard 1
+### Dashboards
 ![Dashboard 1](Image/Dashboard%201.png)
 
-### Dashboard 2
 ![Dashboard 2](Image/Dashboard%202.png)
 
 
